@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/balon.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cancha2.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/candara.spritefont</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/celebracion1.wav</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/ghostPU.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/giantPU.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/largerPU.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/marcador.spritefont</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/miniPU.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/porteroAzul.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/porteroRojo.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/silbato.wav</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/silbato2.wav</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cancha.jpg</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/jugador.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/Letrero.spritefont</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/Title.spritefont</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/buttons.spritefont</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono2.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono3.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono4.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono5.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono6.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono7.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/cono8.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon2.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon3.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon4.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon5.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon6.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon7.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/tachon8.png</File>
+    <File>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/vacia.png</File>
+  </SourceFiles>
+</SourceFileCollection>
