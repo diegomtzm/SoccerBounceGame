@@ -1,2 +1,2 @@
 # SoccerBounceGame
-Game developed used Monogame and Microsoft.XNA
+Game developed using Monogame and Microsoft.XNA
