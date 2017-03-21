@@ -58,3 +58,12 @@ C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\S
 C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\tachon7.xnb
 C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\tachon8.xnb
 C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\vacia.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\equipoAzul.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\equipoRojo.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\equipoAzulPt.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\equipoRojoPt.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\balonChico.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\relojEspera.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\marcadorFinal.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\botonVacio.xnb
+C:\Users\Diego\Documents\Segundo Semestre\POO\Proyecto Videojuego\SoccerBounce\SoccerBounce\bin\Windows\x86\Debug\Content\marcadorFinal2.xnb
