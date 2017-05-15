@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/Resultados.spritefont</SourceFile>
+  <SourceTime>2017-04-24T19:54:03.3930892-05:00</SourceTime>
+  <DestFile>C:/Users/Diego/Documents/Segundo Semestre/POO/Proyecto Videojuego/SoccerBounce/SoccerBounce/Content/bin/Windows/Resultados.xnb</DestFile>
+  <DestTime>2017-04-24T19:54:20.4761177-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T00:36:08-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T00:36:08-06:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
